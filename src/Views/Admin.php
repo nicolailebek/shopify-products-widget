@@ -43,6 +43,7 @@
 			autocomplete="off"
 			style="max-width: 85px;"
 		>
+		<span>ms</span>
 	</p>
 
 	<p>
