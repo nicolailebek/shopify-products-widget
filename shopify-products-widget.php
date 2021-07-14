@@ -19,7 +19,7 @@
  * Author URI:        https://nicolailebek.de
  * Text Domain:       shopify-products-widget
  * License:           MIT
- * License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
+ * License URI:       https://mit-license.org/
  * Domain Path:       /lang
  * GitHub Plugin URI: https://github.com/nicolailebek/shopify-products-widget
  */
