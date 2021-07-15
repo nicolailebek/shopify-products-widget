@@ -8,6 +8,10 @@ No third-party libraries.
 
 Add as many shops as you want ✌️
 
+## Preview
+![widget](https://user-images.githubusercontent.com/39671349/125778277-4b2b6aeb-d560-491f-8b0d-8acd6d3bfca8.gif)
+
+
 ## Installation
 
 1. Download this project and upload the folder to the wp-content/plugins directory.
