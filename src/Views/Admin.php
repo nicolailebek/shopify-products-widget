@@ -61,7 +61,7 @@
 	</p>
 
 	<p>
-		<strong>If you like this widget & want to support it's development</strong>
+		<strong>If you like this widget & want to support its development</strong>
 	</p>
 
 	<p>
